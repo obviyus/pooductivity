@@ -5,4 +5,4 @@ A web extension to replace all mentions of productivity to the poop emoji 💩
 
 ## Links:
 - [Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/pooductivity/)
-- **Chrome**: [waiting for approval]
+- [Chrome Web Store](https://chrome.google.com/webstore/detail/pooductivity/ahipkaabjmopohikeggbajhmjdffacpm)
